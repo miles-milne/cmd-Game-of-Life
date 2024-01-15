@@ -11,7 +11,7 @@ Then, fill any of the tiles that you wish to be 'alive' with "█".
 See the example below for what the contents of the .txt file should look like. A valid name for a .txt file containing that pattern would be myGrid4x5.txt
 
 4 5
-.█.█.
-.█...
-..█..
-█...█
+.█.█.\
+.█...\
+..█..\
+█...█\
